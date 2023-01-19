@@ -1,0 +1,15 @@
+
+
+img{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+ <img src="jetking.png" alt="inserting image">
+
+ h1
+ {
+    color: navy;
+    margin-left: 20px;
+ }
